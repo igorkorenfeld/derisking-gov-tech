@@ -182,7 +182,6 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  - node_modules
 
 assets:
   sources:
