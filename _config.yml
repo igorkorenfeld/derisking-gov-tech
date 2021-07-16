@@ -127,7 +127,7 @@ autoprefixer:
     - last 2 versions
     - IE 11
     - not dead
-      
+
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
@@ -189,6 +189,7 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+  - node_modules
 
 assets:
   sources:
