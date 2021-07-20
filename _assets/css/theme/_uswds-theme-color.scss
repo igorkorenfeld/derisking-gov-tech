@@ -36,45 +36,45 @@ $theme-color-base-ink: $color-base;
 
 // Primary colors
 $theme-color-primary-family: "blue";
-$theme-color-primary-lightest: false;
-$theme-color-primary-lighter: false;
-$theme-color-primary-light: false;
+$theme-color-primary-lightest: $color-light;
+$theme-color-primary-lighter: $color-light;
+$theme-color-primary-light: $color-light;
 $theme-color-primary: $color-medium;
 $theme-color-primary-vivid: $color-medium;
 $theme-color-primary-dark: "blue-cool-70v";
 $theme-color-primary-darker: $color-dark;
-$theme-color-primary-darkest: false;
+$theme-color-primary-darkest: $color-dark;
 
 // Secondary colors
 $theme-color-secondary-family: "cyan";
-$theme-color-secondary-lightest: false;
+$theme-color-secondary-lightest: $color-light;
 $theme-color-secondary-lighter: $color-light;
 $theme-color-secondary-light: "cyan-20v";
 $theme-color-secondary: $color-bright;
 $theme-color-secondary-vivid: $color-bright;
 $theme-color-secondary-dark: "cyan-40v";
 $theme-color-secondary-darker: "cyan-50";
-$theme-color-secondary-darkest: false;
+$theme-color-secondary-darkest: $color-dark;
 
 // Accent warm colors
-$theme-color-accent-warm-family: false;
-$theme-color-accent-warm-lightest: false;
-$theme-color-accent-warm-lighter: false;
-$theme-color-accent-warm-light: false;
-$theme-color-accent-warm: false;
-$theme-color-accent-warm-dark: false;
-$theme-color-accent-warm-darker: false;
-$theme-color-accent-warm-darkest: false;
+$theme-color-accent-warm-family: "cyan";
+$theme-color-accent-warm-lightest: $color-light;
+$theme-color-accent-warm-lighter: $color-light;
+$theme-color-accent-warm-light: $color-light;
+$theme-color-accent-warm: $color-medium;
+$theme-color-accent-warm-dark: $color-dark;
+$theme-color-accent-warm-darker: $color-dark;
+$theme-color-accent-warm-darkest: $color-dark;
 
 // Accent cool colors
-$theme-color-accent-cool-family: false;
-$theme-color-accent-cool-lightest: false;
-$theme-color-accent-cool-lighter: false;
-$theme-color-accent-cool-light: false;
+$theme-color-accent-cool-family: "cyan";
+$theme-color-accent-cool-lightest: $color-bright;
+$theme-color-accent-cool-lighter: $color-bright;
+$theme-color-accent-cool-light: $color-light;
 $theme-color-accent-cool: $color-gsa-blue;
-$theme-color-accent-cool-dark: "blue-cool-70v";
-$theme-color-accent-cool-darker: "blue-cool-80";
-$theme-color-accent-cool-darkest: false;
+$theme-color-accent-cool-dark: $color-dark;
+$theme-color-accent-cool-darker: $color-dark;
+$theme-color-accent-cool-darkest: $color-dark;
 
 /*
 ----------------------------------------

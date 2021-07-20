@@ -524,6 +524,12 @@ blockquote p, .guide-note {
   vertical-align: top;
 }
 
+//QASP table head
+.usa-table thead th, .usa-prose > table thead th,
+.usa-table thead td, .usa-prose > table thead td {
+  background-color: color($theme-color-base-lightest);
+}
+
 //Footnotes
 .footnotes ol {
   padding-left: units(2);
