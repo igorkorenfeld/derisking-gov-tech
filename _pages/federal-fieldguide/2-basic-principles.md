@@ -20,7 +20,7 @@ subnav:
 - text: Footnotes
   href: '#footnotes'
 ---
-#Getting Started
+# Getting Started
 {:.usa-sr-only}
 
 ## Basic principles of modern software&nbsp;design

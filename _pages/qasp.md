@@ -6,7 +6,7 @@ redirect_from:
   - /state-field-guide/qasp/
 ---
 
-## Sample Quality Assessment Surveillance Plan (QASP)
+# Sample Quality Assessment Surveillance Plan (QASP)
 
 <div markdown="1" class="chapter__img-container">
 {% asset qasp-checks.svg class="chapter__img" alt="" %}

@@ -199,13 +199,13 @@ $bullet-spacing: 1.25rem; // matches defualt in MD
 
 // Buttons
 
-.usa-button--secondary {
+a.usa-button--secondary {
   @include u-text('primary-darker');
   @include u-bg('secondary');
   margin-bottom: units(2);
 }
 
-.usa-button--secondary:hover{
+a.usa-button--secondary:hover{
   @include u-text('primary-darker');
   @include u-bg('secondary-light');
 }
